@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Liam Torres",
+    "age": 20,
+    "position": "MF",
+    "league": "MLS",
+    "goals": 4,
+    "assists": 7,
+    "xG_per_90": 0.32,
+    "foot": "left"
+  },
+  {
+    "name": "Mateo Silva",
+    "age": 22,
+    "position": "ST",
+    "league": "La Liga",
+    "goals": 12,
+    "assists": 3,
+    "xG_per_90": 0.58,
+    "foot": "right"
+  },
+  {
+    "name": "Noah Kim",
+    "age": 19,
+    "position": "DF",
+    "league": "Serie A",
+    "goals": 1,
+    "assists": 2,
+    "xG_per_90": 0.09,
+    "foot": "left"
+  },
+  {
+    "name": "Jaden Müller",
+    "age": 21,
+    "position": "MF",
+    "league": "Bundesliga",
+    "goals": 5,
+    "assists": 6,
+    "xG_per_90": 0.41,
+    "foot": "right"
+  },
+  {
+    "name": "Thiago Costa",
+    "age": 23,
+    "position": "ST",
+    "league": "Premier League",
+    "goals": 14,
+    "assists": 4,
+    "xG_per_90": 0.62,
+    "foot": "right"
+  }
+]
